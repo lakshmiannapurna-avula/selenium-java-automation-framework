@@ -1,11 +1,16 @@
-# selenium-java-automation-framework
-Selenium Automation Framework using Java, Selenium WebDriver, TestNG and Page Object Model.
+Automation framework built using Java, Selenium WebDriver, TestNG, Maven, and Page Object Model (POM).
+## Features
+- Page Object Model design
+- Base test setup
+- Reusable test structure
+- Config-driven execution
+- Sample login test cases
 
-Tech Stack:
+## Tech Stack
 - Java
 - Selenium WebDriver
 - TestNG
 - Maven
-- Page Object Model (POM)
 
-This project demonstrates automated UI testing for web applications.
+## Author
+Lakshmi Annapurna Avula
